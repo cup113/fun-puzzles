@@ -1,0 +1,21 @@
+{
+  "name": "fun-puzzles",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vue": "^3.2.45",
+    "vite": "^4.0.0",
+    "pinia": "^2.0.28",
+    "shuffle-list": "^1.0.0",
+    "vue-toasted": "^1.1.28",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "@volar/vue-language-plugin-pug": "^1.0.18",
+    "pug": "^3.0.0",
+    "sass": "^1.57.1"
+  }
+}
